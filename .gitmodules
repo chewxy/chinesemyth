@@ -1,0 +1,3 @@
+[submodule "hugo/themes/kitab"]
+	path = hugo/themes/kitab
+	url = https://github.com/darshanbaral/kitab.git

@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Chinese Mythology For The 21st Century"
+theme = "kitab"
